@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-devhammed",
+  "version": "1.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "devhammed"
+  ],
+  "description": "The devhammed's template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhammed/create-react-app.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "homepage": "https://github.com/devhammed/create-react-app#readme",
+  "bugs": {
+    "url": "https://github.com/devhammed/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
